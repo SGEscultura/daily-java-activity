@@ -1,1 +1,41 @@
+name: Daily Java Challenge
 
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at 00:00 UTC (8:00 AM PHT)
+  workflow_dispatch:     # Allows manual run
+
+jobs:
+  post-challenge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Read today's challenge
+        id: get_challenge
+        run: |
+          # Get total number of exercises
+          total=$(wc -l < java.txt)
+          
+          # Get current timestamp in seconds
+          day=$(date +%s)
+          
+          # Calculate line number based on date
+          line=$(( ((day / 86400) % total) + 1 ))
+          
+          # Read the exercise from java.txt
+          challenge=$(sed -n "${line}p" java.txt)
+          
+          # Pass it to GitHub Actions output
+          echo "challenge=$challenge" >> $GITHUB_OUTPUT
+
+      - name: Send challenge to Discord
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          curl -H "Content-Type: application/json" \
+               -X POST \
+               -d "{\"content\": \"@everyone\n📢 **Daily Java Programming Activity:**\n\n${{ steps.get_challenge.outputs.challenge }}\"}" \
+               $DISCORD_WEBHOOK
