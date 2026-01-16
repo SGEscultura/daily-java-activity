@@ -1,0 +1,334 @@
+Create a Java program that asks for two integers and uses if-else to determine which number is larger or if they are equal.
+Write a program that reads a student’s grade and uses if-else to display Passed, Failed, or With Honors.
+Make a program that uses a loop to print numbers from 1 to 100 and shows whether each is even or odd using if-else.
+Create a menu-driven program using switch that lets the user choose to add, subtract, multiply, or divide two numbers.
+Write a program that stores 10 integers in an array and uses a loop to find the largest value.
+Create a method that receives an array and returns the average of the values.
+Write a program that asks for a name using String and prints it reversed using a loop.
+Create a program that counts vowels and consonants in a sentence using loops and if-else.
+Write a program that swaps the values of two variables using a method.
+Create a program that reads 5 test scores into an array and displays the highest and lowest score.
+Write a program that checks if a number is prime using a loop.
+Create a program that displays a multiplication table using nested loops.
+Write a menu-based program using switch to convert temperatures between Celsius and Fahrenheit.
+Create a program that stores student names in a String array and displays them alphabetically.
+Write a program that calculates the factorial of a number using a loop and a method.
+Create a program that traverses and prints array elements using a method.
+Write a program that checks if a word is a palindrome using String and loops.
+Create a program that saves user input numbers to a file and reads them back.
+Write a program that counts how many positive, negative, and zero values are entered using a loop.
+Create a program that determines the largest of three numbers using if-else.
+Write a program that calculates the sum and average of N numbers using loops and arrays.
+Create a program that prints different shapes using loops based on user choice.
+Write a program that modifies array values inside a method.
+Create a program that reads student records from a file and displays them formatted.
+Write a program that checks password strength using if-else and String length.
+Create a program that simulates an ATM menu using switch, loops, and if-else.
+Write a program that counts word frequency in a sentence using String and loops.
+Create a program that finds the maximum value in an array.
+Write a program that generates the Fibonacci series using loops and methods.
+Create a program that writes employee data to a file and retrieves it on request.
+Write a program that sorts an array using bubble sort.
+Create a program that finds the smallest number in an array.
+Write a program that checks if a number is divisible by 5 and 11.
+Create a program that prints all prime numbers between 1 and 100.
+Write a program that counts the number of digits in an integer.
+Create a program that calculates the sum of digits of a number.
+Write a program that reverses an integer.
+Create a program that checks if a number is an Armstrong number.
+Write a program that finds the GCD of two numbers.
+Create a program that finds the LCM of two numbers.
+Write a program that converts days into years, weeks, and days.
+Create a program that checks whether a character is a vowel or consonant.
+Write a program that prints ASCII values of characters.
+Create a program that calculates power of a number using a loop.
+Write a program that prints all factors of a number.
+Create a program that checks whether a number is perfect.
+Write a program that generates a number pyramid pattern.
+Create a program that generates a star triangle pattern.
+Write a program that prints a diamond pattern using loops.
+Create a program that counts even and odd numbers in an array.
+Write a program that merges two arrays.
+Create a program that copies one array into another.
+Write a program that removes duplicate elements from an array.
+Create a program that finds the second largest element in an array.
+Write a program that rotates an array to the left.
+Write a program that rotates an array to the right.
+Write a program that checks if two arrays are equal.
+Create a program that finds the frequency of each element in an array.
+Write a program that prints unique elements in an array.
+Create a program that counts duplicate elements in an array.
+Write a program that finds common elements between two arrays.
+Create a program that separates even and odd numbers in an array.
+Write a program that finds missing numbers in a given range.
+Create a program that sorts an array in descending order.
+Write a program that inserts an element at a specific position in an array.
+Create a program that deletes an element from an array.
+Write a program that prints all negative elements in an array.
+Create a program that converts a String to uppercase and lowercase.
+Write a program that counts characters, words, and spaces in a String.
+Create a program that finds the longest word in a sentence.
+Write a program that removes whitespace from a String.
+Create a program that replaces vowels in a String with a symbol.
+Write a program that checks if two strings are anagrams.
+Create a program that finds duplicate characters in a String.
+Write a program that counts occurrences of each character in a String.
+Create a program that sorts characters in a String alphabetically.
+Write a program that toggles the case of characters in a String.
+Create a program that checks if a String contains only digits.
+Write a program that converts an integer to a String and a String to integer.
+Create a program that validates a simple email format.
+Write a program that demonstrates method overloading.
+Create a program that demonstrates constructor overloading.
+Write a program that demonstrates single inheritance.
+Create a program that demonstrates multilevel inheritance.
+Write a program that demonstrates method overriding.
+Create a program that demonstrates runtime polymorphism.
+Create a program that demonstrates abstraction using an abstract class.
+Create a program that demonstrates interface implementation.
+Create a program that demonstrates multiple interface inheritance.
+Create a program that demonstrates encapsulation using getters and setters.
+Create a GUI window with a button that prints “Hello” when clicked.
+Build a basic calculator using Swing with buttons for +, -, *, / operations.
+Create a login form with username and password fields and a submit button.
+Build a program that reads student records from a file and displays them in a table.
+Create a simple to-do list application using an ArrayList and console input.
+Build a program that generates random passwords with letters, numbers, and symbols.
+Create a Java program that simulates a dice roll with graphical output.
+Build a program that sorts a list of students by grade and displays the top 5.
+Create a simple text editor with options to open, edit, and save files.
+Build a program that displays a countdown timer in a GUI window.
+Create a program that draws shapes (circle, rectangle, triangle) using Java Swing.
+Build a program that changes the background color when a button is clicked.
+Create a GUI program that simulates a traffic light with changing colors.
+Build a currency converter GUI with input fields and conversion buttons.
+Create a program that displays the current date and time in a window.
+Build a program that tracks expenses using an ArrayList and displays totals.
+Create a program that allows adding and removing items from a shopping list.
+Build a program that simulates rolling multiple dice and shows results graphically.
+Create a GUI program that highlights text when a checkbox is selected.
+Build a program that displays student grades in a JTable with sorting.
+Create a simple game like Tic-Tac-Toe using GUI buttons.
+Build a program that simulates a quiz with multiple-choice questions.
+Create a program that draws a bar chart based on user input data.
+Build a GUI program that changes an image when a button is pressed.
+Create a program that calculates BMI and displays the result in a window.
+Build a program that plays a sound when a button is clicked.
+Create a program that simulates a digital clock with updating time.
+Build a GUI program that shows a color picker and displays the selected color.
+Create a program that reads from a CSV file and displays the data in a table.
+Build a program that animates a ball moving across a window.
+Create a GUI program that toggles between dark and light mode.
+Build a program that tracks high scores in a simple game using files.
+Create a program that allows drawing with the mouse in a window.
+Build a GUI program that displays a list of items with a search function.
+Create a program that simulates a simple vending machine interface.
+Build a program that converts units (length, weight, temperature) with a GUI.
+Create a program that opens a dialog box asking for user input and displays it.
+Build a program that creates a pop-up notification window when an event occurs.
+Create a program that combines a text area and buttons to build a mini-notepad.
+Create a program that prints all even numbers from 1 to 100.
+Build a console-based program to calculate the area of different shapes (circle, square, rectangle).
+Create a Java program that counts the number of words in a sentence entered by the user.
+Build a program that reverses a string without using built-in methods.
+Create a program that generates random numbers and finds the maximum and minimum.
+Build a program that checks if a number is a perfect square.
+Create a program that simulates a simple banking system with deposit and withdrawal.
+Build a program that displays a multiplication table for a given number.
+Create a program that reads a list of names and sorts them alphabetically.
+Build a program that counts how many times each character appears in a string.
+Create a program that simulates flipping a coin multiple times and displays the results.
+Build a program that prints a triangle pattern using asterisks.
+Create a program that finds the sum of digits in an integer entered by the user.
+Build a program that implements a simple guessing game with random numbers.
+Create a program that reads numbers from the user and calculates the average.
+Build a program that converts temperatures between Celsius, Fahrenheit, and Kelvin.
+Create a program that checks if a given string is a palindrome ignoring spaces.
+Build a program that prints the first N Fibonacci numbers using recursion.
+Create a program that calculates the factorial of a number using iteration and recursion.
+Build a program that demonstrates method overloading with different parameter types.
+Create a program that stores student information in objects and displays them.
+Build a program that simulates a simple library system with add, remove, and list books.
+Create a program that uses inheritance to model vehicles and their behaviors.
+Build a program that simulates a stopwatch with start, stop, and reset functionality.
+Create a program that reads a CSV file and calculates the average of numeric columns.
+Build a program that finds all prime numbers between two given numbers.
+Create a program that implements a simple stack using an ArrayList.
+Build a program that simulates rolling two dice and displays the sum histogram.
+Create a program that draws a rectangle and triangle using Java Swing graphics.
+Build a program that simulates a simple to-do list with add, remove, and display options.
+Create a program that finds the second largest number in an array.
+Build a program that searches for a value in a 2D array and prints its position.
+Create a program that implements a menu-driven calculator using switch-case.
+Build a program that counts vowels, consonants, digits, and special characters in a string.
+Create a program that demonstrates polymorphism with different animal classes.
+Build a program that implements a simple queue using an array.
+Create a program that animates a moving ball in a GUI window using threads.
+Build a program that reads a text file and counts how many lines contain a specific word.
+Create a program that implements a simple grade management system with ArrayList.
+Build a program that simulates a traffic light sequence using GUI labels.
+Create a program that implements a simple tic-tac-toe game in the console.
+Build a program that merges two arrays and removes duplicates.
+Create a program that generates a random password of a specified length with letters, numbers, and symbols.
+Build a program that demonstrates exception handling for division by zero and invalid input.
+Create a program that simulates a dice game where two players roll and the highest wins.
+Build a program that allows drawing shapes on a JPanel with mouse clicks.
+Create a program that counts the frequency of words in a text file.
+Build a program that demonstrates the use of interfaces with multiple classes.
+Create a program that simulates a simple ATM machine with pin verification.
+Build a program that displays a digital clock in a GUI window.
+Create a program that sorts a list of objects based on multiple fields.
+Create a program that prints all prime numbers between two user-entered values.
+Build a program that reverses a string and counts the number of vowels.
+Create a program that simulates a simple ATM with deposit, withdraw, and balance check.
+Build a program that stores student names and grades and displays the top 3 students.
+Create a program that reads numbers from a file and calculates their sum and average.
+Build a program that draws a rectangle and a circle in a GUI window.
+Create a program that generates a random password of letters and numbers.
+Build a program that counts the frequency of each word in a sentence.
+Create a program that simulates rolling two dice and prints the total.
+Build a program that stores a list of tasks and allows adding and removing them.
+Create a program that implements a basic calculator using methods for add, subtract, multiply, divide.
+Build a program that sorts an array of integers in ascending and descending order.
+Create a program that checks if a string is a palindrome ignoring case.
+Build a program that demonstrates method overloading with different numbers of parameters.
+Create a program that uses inheritance with a parent class “Animal” and child classes “Dog” and “Cat.”
+Build a program that finds the second largest number in an array.
+Create a program that reads a CSV file and prints the contents in a formatted table.
+Build a program that simulates a traffic light sequence in a GUI window.
+Create a program that draws a simple bar chart from user-entered values.
+Build a program that counts the number of even and odd numbers in an array.
+Create a program that implements a stack using an ArrayList.
+Build a program that implements a queue using an ArrayList.
+Create a program that simulates a simple quiz with 3 questions and multiple-choice answers.
+Build a program that prints a multiplication table up to a number entered by the user.
+Create a program that simulates a stopwatch with start and stop buttons in GUI.
+Build a program that calculates BMI and displays a message based on the value.
+Create a program that reads a file and counts how many lines contain a specific word.
+Build a program that sorts a list of strings alphabetically and displays them.
+Create a program that demonstrates polymorphism with a “Shape” class and subclasses “Circle” and “Rectangle.”
+Build a program that simulates a simple dice game with a score tracker.
+Create a program that reads a list of numbers and prints only the prime numbers.
+Build a program that implements a basic text editor with open, edit, and save options.
+Create a program that converts temperatures between Celsius, Fahrenheit, and Kelvin.
+Build a program that allows drawing shapes with the mouse in a GUI panel.
+Create a program that counts the number of vowels, consonants, digits, and special characters in a string.
+Build a program that simulates flipping a coin multiple times and prints heads and tails counts.
+Create a program that implements a simple library system with add, remove, and list books.
+Build a program that simulates a login form with username and password verification.
+Create a program that calculates the factorial of a number using recursion.
+Build a program that prints the Fibonacci sequence up to a given number using a loop.
+Create a program that demonstrates try-catch by handling division by zero.
+Build a program that finds the largest and smallest number in a user-entered array.
+Create a program that simulates a simple shopping cart with add and remove items.
+Build a program that displays a digital clock in a GUI window.
+Create a program that simulates a simple traffic counter using user input.
+Build a program that implements a basic student grading system with averages and letter grades.
+Create a program that reads user input and removes duplicate words from a sentence.
+Build a program that simulates a dice roll game with two players and displays the winner.
+Create a program that draws multiple random shapes in a GUI window.
+Build a program that simulates a simple calculator with a GUI using buttons.
+Create a program that tracks daily expenses and calculates the total spent.
+Build a program that prints Pascal’s triangle up to a given number of rows.
+Create a program that reads numbers until the user enters 0 and calculates their sum and average.
+Build a program that simulates a vending machine with 3 products and purchase options.
+Create a program that implements a simple address book with search functionality.
+Build a program that uses a HashMap to count the frequency of characters in a string.
+Create a program that demonstrates abstract classes with “Vehicle” and “Car” subclasses.
+Build a program that generates a random maze using 2D arrays and prints it in the console.
+Create a program that simulates a basic Tic-Tac-Toe game in the console.
+Build a program that reads numbers from a file and finds the largest prime number.
+Create a program that simulates a simple dice rolling app with a GUI button.
+Build a program that allows the user to toggle between light and dark modes in GUI.
+Create a program that demonstrates method overriding with parent and child classes.
+Build a program that simulates a mini to-do list with priorities.
+Create a program that prints a triangle, square, and diamond pattern using loops.
+Build a program that simulates a basic banking system with accounts stored in objects.
+Create a program that demonstrates interface implementation with multiple classes.
+Build a program that simulates a simple traffic light with timers in GUI.
+Create a program that reads student names and grades and saves them to a file.
+Build a program that displays a pie chart of user-entered data in a GUI.
+Create a program that simulates rolling three dice and calculates the average total.
+Build a program that allows drawing freehand lines with the mouse in a GUI panel.
+Create a program that simulates a coin toss game with multiple rounds and keeps score.
+Build a program that implements a menu-driven calculator using loops and switch-case.
+Create a program that generates random numbers and finds duplicates.
+Build a program that reads a text file and prints all lines containing a specific keyword.
+Create a program that simulates a library borrowing system with due dates.
+Build a program that allows the user to add, delete, and display items in a list using ArrayList.
+Create a program that draws a bouncing ball in a GUI window with simple animation.
+Build a program that calculates compound interest for user-entered principal, rate, and time.
+Create a program that demonstrates try-catch-finally by handling multiple exceptions.
+Build a program that allows sorting a list of custom “Person” objects by name or age.
+Create a program that simulates a mini scoreboard for a game with player names and scores.
+Build a program that uses recursion to print numbers in reverse order.
+Create a program that simulates a basic dice rolling game with GUI buttons.
+Build a program that reads numbers and calculates the sum of even and odd numbers separately.
+Create a program that demonstrates simple multithreading by printing two sequences simultaneously.
+Build a program that implements a small chat-like console application for two users.
+Create a program that reads a text file and removes all duplicate lines.
+Build a program that simulates a simple shopping system with a list of items and prices.
+Create a program that calculates the greatest common divisor (GCD) of two numbers.
+Build a program that implements a simple number guessing game with hints.
+Create a program that reads a list of student grades and calculates the class average.
+Build a program that simulates a simple Tic-Tac-Toe game with GUI buttons.
+Create a program that uses a HashSet to store unique names and prints them alphabetically.
+Build a program that draws concentric circles in a GUI window with different colors.
+Create a program that simulates a mini quiz game with 5 multiple-choice questions.
+Build a program that calculates the sum of the first N natural numbers using recursion.
+Create a program that reads a CSV file and prints the data sorted by a specific column.
+Build a program that allows the user to add, view, and remove tasks from a to-do list stored in a file.
+Create a program that simulates a digital clock with hours, minutes, and seconds updating every second.
+Create a program that simulates a simple rock-paper-scissors game with user input.
+Build a program that calculates the sum of digits in a number entered by the user.
+Create a program that reads a list of numbers and finds the second smallest number.
+Build a program that simulates a simple digital counter that increments every second in GUI.
+Create a program that stores a list of names and allows the user to search for a name.
+Build a program that demonstrates method overloading with sum methods for integers and doubles.
+Create a program that simulates a simple dice game where the user plays against the computer.
+Build a program that displays a list of products with prices and calculates the total cost.
+Create a program that reads a text file and counts the total number of words.
+Build a program that simulates a basic stopwatch with start, stop, and reset buttons in GUI.
+Create a program that draws multiple random rectangles and circles in a GUI window.
+Build a program that calculates and displays a multiplication table for numbers 1 to 10.
+Create a program that simulates flipping a coin until three heads appear consecutively.
+Build a program that implements a simple student attendance tracker using ArrayList.
+Create a program that demonstrates inheritance with a “Person” class and “Student” subclass.
+Build a program that calculates simple interest based on user-entered principal, rate, and time.
+Create a program that reads a list of numbers and prints all numbers divisible by 3 and 5.
+Build a program that simulates a mini-library checkout system with add, remove, and list books.
+Create a program that allows drawing a grid of squares in GUI with mouse clicks highlighting squares.
+Build a program that counts the number of uppercase and lowercase letters in a string.
+Create a program that simulates a basic calculator with GUI text fields for input and result.
+Build a program that implements a stack with push, pop, and peek methods using ArrayList.
+Create a program that demonstrates polymorphism with a “Bird” class and subclasses “Sparrow” and “Eagle.”
+Build a program that prints a diamond pattern of asterisks of a given size.
+Create a program that reads numbers from the user and finds the average of positive numbers only.
+Build a program that simulates a simple “Guess the Number” game with limited attempts.
+Create a program that draws a bouncing ball in GUI that changes color when it hits the edges.
+Build a program that implements a queue with enqueue and dequeue operations using ArrayList.
+Create a program that reads a file and prints all lines that contain a user-entered keyword.
+Build a program that simulates a basic grocery list with add, remove, and display functionality.
+Create a program that uses recursion to print all even numbers from N down to 2.
+Build a program that calculates factorial using a loop and prints the result.
+Create a program that demonstrates abstract classes with a “Vehicle” and “Car” subclass.
+Build a program that simulates a mini shopping cart with items, quantity, and total price.
+Create a program that reads a list of student grades and determines the highest and lowest grade.
+Build a program that allows the user to draw freehand lines with the mouse in a GUI panel.
+Create a program that simulates a simple dice roll and counts how many times each number appears.
+Build a program that sorts a list of custom “Book” objects by title and author.
+Create a program that demonstrates try-catch by handling invalid number input from the user.
+Build a program that prints a right-angled triangle of numbers with increasing values.
+Create a program that reads a text file and prints the number of sentences.
+Build a program that simulates a simple voting system with candidates and vote tallying.
+Create a program that demonstrates method overriding with a parent “Employee” class and “Manager” subclass.
+Build a program that simulates a basic pet care system with feeding and playing actions.
+Create a program that prints the first N even Fibonacci numbers.
+Build a program that simulates a mini scoreboard for a game with multiple players.
+Create a program that reads a list of integers and removes all duplicates using HashSet.
+Build a program that displays the current date and time in a GUI window.
+Create a program that simulates a mini ATM with PIN verification and balance display.
+Build a program that prints a multiplication table in reverse order from 10 to 1.
+Create a program that allows the user to add, remove, and view tasks stored in a text file.
+Build a program that demonstrates multithreading by printing two different messages alternately.
+Create a program that simulates a basic quiz game with score tracking and three multiple-choice questions.
